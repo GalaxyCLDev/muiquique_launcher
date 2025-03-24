@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "MuIquique",
-	"newClientUrl" : "",
+	"newClientUrl" : "https://github.com/GalaxyCLDev/muiquique_launcher/releases/download/cliente/muiquique_launcher.zip",
 	"clientExecutable": "muiquique.exe"
 }
